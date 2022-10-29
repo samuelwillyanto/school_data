@@ -5,3 +5,7 @@ Ini merupakan sebuah website CRUD sederhana yang dapat menampilkan, menambah, me
 ## Website Description
 
 Menggunakan laravel blade template dan CSS Bootstrap untuk tampilan websitenya.
+
+## Tampilan Website
+
+![](https://github.com/samuelwillyanto/school_data/blob/master/tampilanWebsite.gif)
