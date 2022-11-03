@@ -48,11 +48,6 @@
             <input type="text" class="form-control" name="address" value="{{ $t->address }}">
         </div>
 
-        <div class="form-group">
-            <label for="">Teacher Name</label>
-            <input type="text" class="form-control" name="teacher_name" value="{{ $t->teacher_name }}">
-        </div>
-
         <button class="btn btn-primary" type="submit">Submit</button>
 
     </form>
